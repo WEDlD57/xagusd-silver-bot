@@ -1,0 +1,7 @@
+*.ex5
+*.log
+__pycache__/
+*.pyc
+*_equity.csv
+*_trades.csv
+*_settings.csv
